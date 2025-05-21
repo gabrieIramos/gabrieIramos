@@ -1,9 +1,8 @@
 ## Olá👋
 
 - 💼 Desenvolvedor Junior em C#
-- 🎓 Estudante de Ciencias da Computação na Universidade Tiradentes no 5° periodo.
-- 🎈 20 anos
-- 🌱 Aprendendo mais sobre SQLServer
+- 🎓 Estudante de Ciencias da Computação na Universidade Tiradentes no 6° periodo.
+- 🎈 21 anos
 
 <a href="https://www.instagram.com/_gabriel.ramoss/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
