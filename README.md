@@ -9,8 +9,8 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrieIramos&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrieIramos&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrieIramos&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&token=YOUR_TOKEN_HERE" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrieIramos&layout=compact&langs_count=6&theme=dracula&hide_border=false&token=YOUR_TOKEN_HERE" height="150" alt="Linguagens mais usadas" />
 </div>
 
 ---
@@ -24,7 +24,7 @@
   <a href="mailto:gabriel.augusto.ramos@hotmail.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-ramos-1b386a286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+  <a href="https://www.linkedin.com/in/gabriel-ramos-1b386a286">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -35,7 +35,7 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" width="80px" alt="NestJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="80px" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="80px" alt="Python" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="80px" alt=".NET Core" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="80px" alt="Spring" />
 </p>
