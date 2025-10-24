@@ -12,9 +12,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Update README stats
+      - name: Replace token in README
         run: |
-          sed -i "s|token=.*|token=${{ secrets.GH_STATS_TOKEN }}|" README.md
+          sed -i "s|YOUR_TOKEN_HERE|${{ secrets.GH_STATS_TOKEN }}|g" README.md
 
       - name: Commit changes
         run: |
